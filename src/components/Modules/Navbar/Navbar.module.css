@@ -1,0 +1,9 @@
+.navbar__auth{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.navbar__auth button {
+    font-size: 0.875rem;
+
+}
